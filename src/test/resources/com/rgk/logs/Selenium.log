@@ -6,3 +6,13 @@
 15:41:11,053 DEBUG devpinoyLogger:185 - Typing in the element: email_XPATHentered value as: er.rohit.kathe@gmail.com
 15:41:11,213 DEBUG devpinoyLogger:185 - Typing in the element: password_XPATHentered value as: Selenium@123
 15:41:11,334 DEBUG devpinoyLogger:161 - Clicking on element:- signinBtn_XPATH
+15:41:21,882 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:41:21,882 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:41:21,882 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:41:21,882 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:41:21,882 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Rohit/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:41:40,303 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:41:40,304 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:41:40,305 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:41:40,306 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:41:40,307 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Rohit/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
