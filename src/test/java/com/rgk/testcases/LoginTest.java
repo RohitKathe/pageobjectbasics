@@ -10,7 +10,7 @@ import com.rgk.utilities.Utilities;
 
 public class LoginTest extends BaseTest {
 
-	//Using EGIT plugin
+
 	@Test(dataProviderClass=Utilities.class, dataProvider="dp")
 	public void loginTest(Hashtable<String, String> data) {
 

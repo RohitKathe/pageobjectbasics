@@ -1,22 +1,8 @@
-15:10:25,556 DEBUG devpinoyLogger:71 - Config file loaded!!
-15:10:25,572 DEBUG devpinoyLogger:86 - OR File loaded!!
-15:10:29,608 DEBUG devpinoyLogger:118 - Chrome launched!!
-15:10:39,896 DEBUG devpinoyLogger:128 - navigated to :- http://www.zoho.com/
-15:10:42,956 DEBUG devpinoyLogger:161 - Clicking on element:- loginLink_CSS
-15:10:43,328 DEBUG devpinoyLogger:185 - Typing in the element: email_XPATHentered value as: er.rohit.kathe@gmail.com
-15:10:43,480 DEBUG devpinoyLogger:185 - Typing in the element: password_XPATHentered value as: Selenium@123
-15:10:43,564 DEBUG devpinoyLogger:161 - Clicking on element:- signinBtn_XPATH
-15:10:58,306 DEBUG devpinoyLogger:161 - Clicking on element:- closeBtn_XPATH
-15:10:58,785 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-15:10:58,788 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-15:10:58,791 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-15:10:58,792 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-15:10:58,792 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Rohit/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-15:11:14,144 DEBUG devpinoyLogger:161 - Clicking on element:- accountsTab_CSS
-15:11:14,996 DEBUG devpinoyLogger:161 - Clicking on element:- createAccountBtn_XPATH
-15:11:15,539 DEBUG devpinoyLogger:185 - Typing in the element: accountNameTxt_CSSentered value as: Raman
-15:11:15,905 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-15:11:15,906 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-15:11:15,907 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-15:11:15,907 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-15:11:15,907 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Rohit/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:40:48,130 DEBUG devpinoyLogger:71 - Config file loaded!!
+15:40:48,130 DEBUG devpinoyLogger:86 - OR File loaded!!
+15:40:53,571 DEBUG devpinoyLogger:118 - Chrome launched!!
+15:41:07,699 DEBUG devpinoyLogger:128 - navigated to :- http://www.zoho.com/
+15:41:10,714 DEBUG devpinoyLogger:161 - Clicking on element:- loginLink_CSS
+15:41:11,053 DEBUG devpinoyLogger:185 - Typing in the element: email_XPATHentered value as: er.rohit.kathe@gmail.com
+15:41:11,213 DEBUG devpinoyLogger:185 - Typing in the element: password_XPATHentered value as: Selenium@123
+15:41:11,334 DEBUG devpinoyLogger:161 - Clicking on element:- signinBtn_XPATH
