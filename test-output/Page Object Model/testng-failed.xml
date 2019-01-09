@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Page Object Model]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.rgk.listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Login Test(failed)">
+    <classes>
+      <class name="com.rgk.testcases.LoginTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.rgk.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+</suite> <!-- Failed suite [Page Object Model] -->
