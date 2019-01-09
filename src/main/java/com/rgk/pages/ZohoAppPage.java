@@ -14,13 +14,14 @@ public class ZohoAppPage extends Page {
 	// }
 
 	public CRMHomePage goToCRM() {
-		driver.findElement(By.xpath("//span[@class='zicon-apps-crm zicon-apps-96']")).click();
+		click("crmLink_XPATH");
 		return new CRMHomePage();
 
 	}
 
 	public void goToChat() {
-		driver.findElement(By.xpath("//span[@class='zicon-apps-chat zicon-apps-96']")).click();
+		click("chatLink_XPATH");
+		
 
 	}
 }

@@ -1,9 +1,12 @@
-09/01/2019 14:53:14 devpinoyLogger Config file loaded!!
-09/01/2019 14:53:14 devpinoyLogger OR File loaded!!
-09/01/2019 14:53:26 devpinoyLogger Chrome launched!!
-09/01/2019 14:53:35 devpinoyLogger navigated to :- http://www.zoho.com/
-09/01/2019 14:53:38 devpinoyLogger Clicking on element:- loginLink_CSS
-09/01/2019 14:53:38 devpinoyLogger Typing in the element: email_XPATHentered value as: er.rohit.kathe@gmail.com
-09/01/2019 14:53:38 devpinoyLogger Typing in the element: password_XPATHentered value as: Selenium@123
-09/01/2019 14:53:38 devpinoyLogger Clicking on element:- signinBtn_XPATH
-09/01/2019 14:53:48 devpinoyLogger Clicking on element:- closeBtn_XPATH
+09/01/2019 15:10:25 devpinoyLogger Config file loaded!!
+09/01/2019 15:10:25 devpinoyLogger OR File loaded!!
+09/01/2019 15:10:29 devpinoyLogger Chrome launched!!
+09/01/2019 15:10:39 devpinoyLogger navigated to :- http://www.zoho.com/
+09/01/2019 15:10:42 devpinoyLogger Clicking on element:- loginLink_CSS
+09/01/2019 15:10:43 devpinoyLogger Typing in the element: email_XPATHentered value as: er.rohit.kathe@gmail.com
+09/01/2019 15:10:43 devpinoyLogger Typing in the element: password_XPATHentered value as: Selenium@123
+09/01/2019 15:10:43 devpinoyLogger Clicking on element:- signinBtn_XPATH
+09/01/2019 15:10:58 devpinoyLogger Clicking on element:- closeBtn_XPATH
+09/01/2019 15:11:14 devpinoyLogger Clicking on element:- accountsTab_CSS
+09/01/2019 15:11:14 devpinoyLogger Clicking on element:- createAccountBtn_XPATH
+09/01/2019 15:11:15 devpinoyLogger Typing in the element: accountNameTxt_CSSentered value as: Raman
